@@ -26,13 +26,11 @@ The School Management System is a project developed for managing various aspects
 
 Contributions to the School Management System project are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
-
-The School Management System project is licensed under the MIT License. You are free to use, modify, and distribute the code for personal or commercial purposes.
-
 ## Acknowledgments
 
 - SQLite for providing a reliable and lightweight database management system.
+## Demo Project and Explaination 
+[Click here to watch](https://youtu.be/jOLxHlHkWNg?si=uDDXZB6o8sh5vfAq)
 
 ## Contact
 
